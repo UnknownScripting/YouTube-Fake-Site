@@ -1,0 +1,42 @@
+h1{
+	color: #005426;
+	font-size: 60px;
+	font-style: italic;
+	font-family: "Roboto", sans-serif;
+}
+
+h6{
+	color: white;
+}
+
+a{
+	color: #0f0f0f;
+	font-family: "Roboto", sans-serif;
+	background-color: #f1f1f1;
+	text-decoration: none;
+	padding: 13px 19px;
+	border-radius: 30px;
+	/*border: 1px solid #CB0000;*/
+	transition: 0.2s;
+	font-weight: 500;
+}
+
+a:hover{
+	background-color: #d9d9d9;
+}
+
+p{
+	color: purple;
+}
+
+.color-red{
+	color: red;
+}
+
+img{
+	width: 100px;
+}
+
+li{
+	color: white;
+}
